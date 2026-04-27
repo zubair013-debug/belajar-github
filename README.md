@@ -8,7 +8,7 @@ Langkah-langkah:
 - Menyimpan perubahan dengan pesan:
 - Menghubungkan ke remote (Jika pertama kali):
 - Mengirim kode
-<imag src="/asset/git-push.png">
+<img src="/asset/git-push.png">
 
 2. Langkah-Langkah Clone Repository
 Clone berfungsi untuk menyalin (mendownload) seluruh isi repository yang ada di server ke komputer lokal Anda.
@@ -17,7 +17,7 @@ Langkah-langkah:
 - Gunakan perintah:
 git clone https://github.com/username/nama-repo.git
 - Git akan membuat folder baru sesuai nama repository dan mendownload semua file serta riwayat perubahannya.
-    <imag src="/asset/git-clone.jpg">
+    <img src="/asset/git-clone.jpg">
 3. Langkah-Langkah Pull dan Push (Alur Kerja Kolaborasi)
 Fungsi Pull: Mengambil dan menggabungkan (merge) perubahan terbaru dari server ke komputer lokal Anda.
 Alur Kerja Standar:
@@ -30,7 +30,7 @@ git add
 git commit -m "Menambahkan fitur login"
 - Push kembali ke server:
 git push origin main
-<imag src="/asset/git-push-pull.jpg">
+<img src="/asset/git-push-pull.jpg">
 4. Pentingnya Penggunaan Command Line (CLI)
 Meskipun banyak aplikasi GUI (seperti GitHub Desktop atau GitKraken), Command Line tetap menjadi pilihan utama profesional karena:
 Kecepatan dan Efisiensi: Mengetik perintah seringkali lebih cepat daripada menavigasi menu klik-kanan.
